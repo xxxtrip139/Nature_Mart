@@ -190,7 +190,7 @@ a{
 .block-1-main{
     height: 100%;
     width: 100%;
-    background-image: url(tea.jpg);
+    background-image: url(../images/tea.jpg);
     z-index: -2;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -268,15 +268,15 @@ a{
 }
 
 .photo-o1{
-    background-image: url(/assets/images/o1.jpg);
+    background-image: url(../images/o1.jpg);
 }
 
 .photo-o2{
-    background-image: url(/assets/images/o2.jpeg);
+    background-image: url(../images/o2.jpeg);
 }
 
 .photo-o3{
-    background-image: url(/assets/images/o3.jpg);
+    background-image: url(../images/o3.jpg);
 }
 
 .photo-o1, .photo-o2, .photo-o3{
