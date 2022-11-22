@@ -1519,7 +1519,7 @@ s{
         position: relative;
     }
     
-    .block-1-main{
+/*     .block-1-main{
         height: 100%;
         width: 100%;
         background-image: url(/assets/images/tea.jpg);
@@ -1528,7 +1528,7 @@ s{
         background-size: 100%;
         opacity: 0.40;
         transition: all .5s ease-in-out;
-    }
+    } */
 
     .text-bl1{
         max-width: 310px;
@@ -1618,7 +1618,7 @@ s{
         position: relative;
     }
     
-    .block-1-main{
+/*     .block-1-main{
         height: 100%;
         width: 100%;
         background-image: url(/assets/images/tea.jpg);
@@ -1627,7 +1627,7 @@ s{
         background-size: 100%;
         opacity: 0.40;
         transition: all .5s ease-in-out;
-    }
+    } */
 
     .text-bl1{
         max-width: 220px;
