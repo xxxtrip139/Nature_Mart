@@ -190,7 +190,7 @@ a{
 .block-1-main{
     height: 100%;
     width: 100%;
-    background-image: url(../assets/images/tea.jpg);
+    background-image: url(./assets/images/tea.jpg);
     z-index: -2;
     background-repeat: no-repeat;
     background-size: 100%;
